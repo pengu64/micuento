@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="34.290cm" height="18.700cm" viewBox="1.250 0.800 34.290 18.700"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Layer: Fondo -->
+<g id="Fondo">
+<!-- Database - Table -->
+<rect x="1.250" y="0.800" width="11.695" height="0.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<text x="7.098" y="1.500"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+Cliente</text>
+<rect x="1.250" y="1.700" width="11.695" height="17.800" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="1.500" cy="2.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="2.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Id_Cliente PK</text>
+<ellipse cx="1.500" cy="3.000" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="3.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Nombre</text>
+<ellipse cx="1.500" cy="3.800" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="4.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Apellido_p</text>
+<ellipse cx="1.500" cy="4.600" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="4.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Apellido_m</text>
+<ellipse cx="1.500" cy="5.400" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="5.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+email</text>
+<ellipse cx="1.500" cy="6.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="6.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+password</text>
+<ellipse cx="1.500" cy="7.000" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="7.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Ciudad</text>
+<ellipse cx="1.500" cy="7.800" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="8.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Alcaldia/Municipio</text>
+<ellipse cx="1.500" cy="8.600" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="8.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Direccion</text>
+<ellipse cx="1.500" cy="9.400" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="9.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Codigo postal</text>
+<ellipse cx="1.500" cy="10.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="10.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Genero</text>
+<ellipse cx="1.500" cy="11.000" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="11.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Fecha de creacion de cuenta</text>
+<ellipse cx="1.500" cy="11.800" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="12.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Telefono</text>
+<ellipse cx="1.500" cy="12.600" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="12.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Nombre_p</text>
+<ellipse cx="1.500" cy="13.400" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="13.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Genero_p</text>
+<ellipse cx="1.500" cy="14.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="14.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Ciudad_p</text>
+<ellipse cx="1.500" cy="15.000" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="15.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Pais_p</text>
+<ellipse cx="1.500" cy="15.800" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="16.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Ojos_p</text>
+<ellipse cx="1.500" cy="16.600" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="16.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Color_pelo_p</text>
+<ellipse cx="1.500" cy="17.400" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="17.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Tipo_pelo_p</text>
+<ellipse cx="1.500" cy="18.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="18.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Piel_p</text>
+<ellipse cx="1.500" cy="19.000" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="1.700" y="19.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Gafas_p</text>
+<!-- Database - Table -->
+<rect x="17.950" y="10.650" width="5.920" height="0.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<text x="20.910" y="11.350"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+Cuento</text>
+<rect x="17.950" y="11.550" width="5.920" height="3.400" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="18.200" cy="12.050" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="18.400" y="12.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Id_Cuento PK</text>
+<ellipse cx="18.200" cy="12.850" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="18.400" y="13.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Titulo</text>
+<ellipse cx="18.200" cy="13.650" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="18.400" y="13.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Contenido</text>
+<ellipse cx="18.200" cy="14.450" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="18.400" y="14.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Precio</text>
+<!-- Database - Table -->
+<rect x="28.200" y="3.750" width="5.920" height="0.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<text x="31.160" y="4.450"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+Detalle venta</text>
+<rect x="28.200" y="4.650" width="5.920" height="1.800" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="28.450" cy="5.150" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="28.650" y="5.450"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Id_Venta PK</text>
+<ellipse cx="28.450" cy="5.950" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="28.650" y="6.250"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Id_Cuento PK</text>
+<!-- Database - Table -->
+<rect x="17.350" y="1.800" width="7.460" height="0.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<text x="21.080" y="2.500"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+Ventas</text>
+<rect x="17.350" y="2.700" width="7.460" height="5.000" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="17.600" cy="3.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="17.800" y="3.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Id_Venta PK</text>
+<ellipse cx="17.600" cy="4.000" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="17.800" y="4.300"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Fecha de Compra</text>
+<ellipse cx="17.600" cy="4.800" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="17.800" y="5.100"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Cantidad Cuentos</text>
+<ellipse cx="17.600" cy="5.600" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="17.800" y="5.900"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Venta Total</text>
+<ellipse cx="17.600" cy="6.400" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="17.800" y="6.700"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Id_Cliente FK</text>
+<ellipse cx="17.600" cy="7.200" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="17.800" y="7.500"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Impreso o PDF</text>
+<!-- Database - Table -->
+<rect x="28.850" y="9.850" width="6.690" height="0.900" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<text x="32.195" y="10.550"  fill="#000000" text-anchor="middle" font-size="0.70" font-family="sans" font-style="normal" font-weight="700">
+Contacto</text>
+<rect x="28.850" y="10.750" width="6.690" height="5.800" fill="#FFFFFF" stroke="#000000" stroke-width="0.100" />
+<ellipse cx="29.100" cy="11.250" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="29.300" y="11.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Id_Contacto PK</text>
+<ellipse cx="29.100" cy="12.050" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="29.300" y="12.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Nombre</text>
+<ellipse cx="29.100" cy="12.850" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="29.300" y="13.150"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Apellido_p</text>
+<ellipse cx="29.100" cy="13.650" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="29.300" y="13.950"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+Apellido_m</text>
+<ellipse cx="29.100" cy="14.450" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="29.300" y="14.750"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+email</text>
+<ellipse cx="29.100" cy="15.250" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="29.300" y="15.550"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+telefono</text>
+<ellipse cx="29.100" cy="16.050" rx="0.100" ry="0.100" fill="#000000" stroke="none"  stroke-width="0.010" />
+<text x="29.300" y="16.350"  fill="#000000" text-anchor="start" font-size="0.80" font-family="monospace" font-style="normal" font-weight="400">
+mensaje</text>
+<!-- Database - Reference -->
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="13.000,5.000 15.100,5.000 15.100,5.000 16.713,5.000 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.100"  points="17.088,5.000 16.588,5.250 16.713,5.000 16.588,4.750 "/>
+<text x="13.200" y="4.800"  fill="#000000" text-anchor="start" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="17.000" y="4.800"  fill="#000000" text-anchor="end" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+<!-- Database - Reference -->
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="24.810,3.200 26.505,3.200 26.505,5.150 27.713,5.150 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.100"  points="28.088,5.150 27.588,5.400 27.713,5.150 27.588,4.900 "/>
+<text x="25.010" y="3.000"  fill="#000000" text-anchor="start" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="28.000" y="4.950"  fill="#000000" text-anchor="end" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+<!-- Database - Reference -->
+<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="23.870,12.050 25.885,12.050 25.885,5.900 27.413,5.900 "/>
+<polygon fill="#000000" stroke="#000000" stroke-width="0.100"  points="27.788,5.900 27.288,6.150 27.413,5.900 27.288,5.650 "/>
+<text x="24.070" y="11.850"  fill="#000000" text-anchor="start" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+1</text>
+<text x="27.700" y="5.700"  fill="#000000" text-anchor="end" font-size="0.60" font-family="monospace" font-style="normal" font-weight="400">
+n</text>
+</g>
+</svg>
