@@ -39,6 +39,9 @@ class Ventas(models.Model):
 	IP = models.BooleanField(null=True)
 	cuento = models.ManyToManyField(Cuento)
 	
+	def __str__(self):
+		return str(self.id)
+	
 # class Acceso_cuenta(models.Model):
 #	Fecha_acceso = models.DateField(null=True, blank=True)
 #	Fecha_desconexion = models.DateField(null=True, blank=True)
