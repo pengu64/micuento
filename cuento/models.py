@@ -23,6 +23,9 @@ class Cliente(models.Model):
 	Tipo_pelo_p =models.CharField(null=True, max_length=10)
 	Piel_p = models.CharField(null=True, max_length=10)
 	Gafas_p = models.BooleanField(null=True)
+	
+	#def __str__():
+	#	return "{} {}".format(self.Nombre, self.Apellido_p)
 
 	
 class Cuento(models.Model):
@@ -30,6 +33,8 @@ class Cuento(models.Model):
 	Contenido = models.TextField(max_length=200000)
 	Precio = models.DecimalField(max_digits=10, decimal_places=2)
 	#ventas = models.ManyToManyField(Ventas)
+	#def __str__(self):
+	#	return self.Titulo
 	
 class Ventas(models.Model):
 	Fecha_compra = models.DateField(null=True, blank=True)
@@ -39,8 +44,8 @@ class Ventas(models.Model):
 	IP = models.BooleanField(null=True)
 	cuento = models.ManyToManyField(Cuento)
 	
-	def __str__(self):
-		return str(self.id)
+	#def __str__(self):
+	#	return str(self.id)
 	
 # class Acceso_cuenta(models.Model):
 #	Fecha_acceso = models.DateField(null=True, blank=True)
